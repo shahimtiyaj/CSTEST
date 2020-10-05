@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CSTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">CS Infotech Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="edit">Edit</string>
+    <string name="select_location">Select Location</string>
+    <string name="select_profession">Select Profession</string>
+    <string name="select_experience">Select Experience Year</string>
+    <string name="select_expire_date">Select Expire Days</string>
+    <string name="select_salary_range">Select Salary Range</string>
+    <string name="help_text">For any kind of help and query click  below number.</string>
+
+    <string name="help_phone_number">01688503233</string>
+    <string name="hint_name">Student Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+
+    <string name="hint_username">Enter Username</string>
+</resources>
